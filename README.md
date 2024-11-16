@@ -15,7 +15,7 @@ This repository contains example code for watermarking generative tabular data, 
 
 Ensure your data is organized as follows:
 
-<base_path>/<task>/X_num_train_raw_syn_<i>.npy
+base_path/task/X_num_train_raw_syn_{i}.npy
 
 - `<base_path>`: Root directory for your experiments.
 - `<task>`: Task name (e.g., `gesture`, `house`).
